@@ -19,8 +19,7 @@
 			user-generated content or pre-made content posted online. They "introduce substantial and
 			pervasive changes to communication between organizations, communities, and individuals."
 			BAESIX mainly focus on the emerging fields of technoself studies, But still in a basic
-			form. BAESIX differ from other social media software as it posts only ideas and 
-			suggestions
+			form. BAESIX differ from other social media software as it posts only ideas and suggestions
 			across different users and does not support networking.
 			
 			Social media intelligence enables brands to:
