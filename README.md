@@ -134,13 +134,26 @@
 
 **4. CONCLUTION**
 
-	“Basic Algorithmic file Encoded as a Simple program Intending to entertain you Xtendly” shortened as BAESIX is a basic form of what now we call a “SOCIAL MEDIA”. In this modern era everyone is very into social media. It has became a part of our life. Social media is defined as relationship that exist between network and people. Thus via this software, we provide the facilities for users to share and connect with one another. BAESIX thus becomes the best by our way to be S.M.A.R.T. (Specific, Measureable, Achievable, Realistic, and Timely).
+	“Basic Algorithmic file Encoded as a Simple program Intending to entertain you Xtendly” shortened as BAESIX
+	is a basic form of what now we call a “SOCIAL MEDIA”. In this modern era everyone is very into social media.
+	It has became a part of our life. Social media is defined as relationship that exist between network and
+	people. Thus via this software, we provide the facilities for users to share and connect with one another.
+	BAESIX thus becomes the best by our way to be S.M.A.R.T. 
+	(Specific, Measureable, Achievable, Realistic, and Timely).
 
-	This project helps users to create highly interactive platforms through which individuals, communities, and organizations can share, co-create, discuss, and modify user-generated content or pre-made content posted. They "introduce substantial and pervasive changes to communication between organizations, communities, and individuals." BAESIX mainly focus on the emerging fields of technoself studies, But still in a basic form. BAESIX differ from other social media software as it posts only ideas and suggestions across different users and does not support networking.
+	This project helps users to create highly interactive platforms through which individuals, communities,
+	and organizations can share, co-create, discuss, and modify user-generated content or pre-made content
+	posted. They "introduce substantial and pervasive changes to communication between organizations,
+	communities, and individuals." BAESIX mainly focus on the emerging fields of technoself studies, But
+	still in a basic form. BAESIX differ from other social media software as it posts only ideas and suggestions
+	across different users and does not support networking.
 
-	However this project is not safe. Many softwares has now the facility to create fake Id’s which will not be identified and can thus access others privacy without their knowledge. Moreover they can hack your informations and also alter it. Our codewriter team are trying our best to prevent such efforts. Currently this project is just a prototype.There are many modifications to be made in this project to make it safe. These modifications would be made in this project gradually. There are many more modifications to be made so as to this project becomes more user friendly.
-	 
-		project to do all work ease and fast.
+	However this project is not safe. Many softwares has now the facility to create fake Id’s which will not be 
+	identified and can thus access others privacy without their knowledge. Moreover they can hack your
+	informations and also alter it. Our codewriter team are trying our best to prevent such efforts. Currently
+	this project is just a prototype.There are many modifications to be made in this project to make it safe.
+	These modifications would be made in this project gradually. There are many more modifications to be made so
+	as to this project becomes more user friendly. 
 
 **5. BIBLIOGRAPHY**
 
