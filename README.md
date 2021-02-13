@@ -153,7 +153,8 @@
 	identified and can thus access others privacy without their knowledge. Moreover they can hack your
 	informations and also alter it. Our codewriter team are trying our best to prevent such efforts. Currently
 	this project is just a prototype.There are many modifications to be made in this project to make it safe.
-	These modifications would be made in this project gradually. There are many more modifications to be made so
+	These modifications would be made in this project gradually. There are many more modifications to be made 
+	so
 	as to this project becomes more user friendly. 
 
 **5. BIBLIOGRAPHY**
