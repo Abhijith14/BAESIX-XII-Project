@@ -74,12 +74,12 @@
 
 
 
-| Sl.No  | Function | Description |
-| ------------- | ------------- | ----------- |
-| 1.  | INTRO()  |   INTRODUCTION TO THIS PROJECT     |
-| 2.  | GRAPH()  |   GIVES GRAPHIC DESIGN TO THE PROJECT     |
-| 3.  | DIS()  |   DISPLAY THE ITEMS AND INFORMATIONS     |
-| 4.  | ENTER()  |   ACCEPTS THE ENTERED NUMBER AND PROCESS IT ACCORDING TO THE OPERATION ASKED     |
+| Sl.No  | Classes Used | Function | Description | Files Used |
+| ------------- | ------------- | ----------- | ----------- | ----------- |
+| 1.  | INTRO()  |   INTRODUCTION TO THIS PROJECT     | blah | blah |
+| 2.  | GRAPH()  |   GIVES GRAPHIC DESIGN TO THE PROJECT     | blah | blah |
+| 3.  | DIS()  |   DISPLAY THE ITEMS AND INFORMATIONS     | blah | blah |
+| 4.  | ENTER()  |   ACCEPTS THE ENTERED NUMBER AND PROCESS IT ACCORDING TO THE OPERATION ASKED     | blah | blah |
 
 
 **4. CONCLUTION**
