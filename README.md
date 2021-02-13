@@ -134,10 +134,8 @@
 
 **4. CONCLUTION**
 
-	“Basic Algorithmic file Encoded as a Simple program Intending to entertain you Xtendly” shortened as 
-	BAESIX
-	is a basic form of what now we call a “SOCIAL MEDIA”. In this modern era everyone is very into social 
-	media.
+	“Basic Algorithmic file Encoded as a Simple program Intending to entertain you Xtendly” shortened as BAESIX
+	is a basic form of what now we call a “SOCIAL MEDIA”. In this modern era everyone is very into social media.
 	It has became a part of our life. Social media is defined as relationship that exist between network and
 	people. Thus via this software, we provide the facilities for users to share and connect with one 
 	another.
