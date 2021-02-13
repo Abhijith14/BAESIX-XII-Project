@@ -146,20 +146,14 @@
 	posted. They "introduce substantial and pervasive changes to communication between organizations,
 	communities, and individuals." BAESIX mainly focus on the emerging fields of technoself studies, But
 	still in a basic form. BAESIX differ from other social media software as it posts only ideas and 
-	suggestions
-	across different users and does not support networking.
+	suggestions across different users and does not support networking.
 
-	However this project is not safe. Many softwares has now the facility to create fake Id’s which 
-	will not be 
-	identified and can thus access others privacy without their knowledge. Moreover they can hack your
-	informations and also alter it. Our codewriter team are trying our best to prevent such efforts. 
-	Currently
-	this project is just a prototype.There are many modifications to be made in this project to make 
-	it safe.
-	These modifications would be made in this project gradually. There are many more modifications 
-	to be made 
-	so
-	as to this project becomes more user friendly. 
+	However this project is not safe. Many softwares has now the facility to create fake Id’s which will 
+	not be identified and can thus access others privacy without their knowledge. Moreover they can hack
+	your informations and also alter it. Our codewriter team are trying our best to prevent such efforts. 
+	Currently this project is just a prototype.There are many modifications to be made in this project 
+	to make it safe. These modifications would be made in this project gradually. There are many more 
+	modifications to be made so	as to this project becomes more user friendly. 
 
 **5. BIBLIOGRAPHY**
 
