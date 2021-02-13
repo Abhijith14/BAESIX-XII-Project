@@ -115,6 +115,23 @@
 |        |              | ret_to()       |  | Function to return to.                                        |  | -            |
 
 
+	NON-MEMBER FUNCTIONS
+	
+| SL.No. | Function              |  | Description                                    |  | Files used |  |
+|--------|-----------------------|--|------------------------------------------------|--|------------|--|
+| 1      | login()               |  | Function to check if entered account exists.   |  | CREATE     |  |
+| 2      | user()                |  | Function to enter username & password.         |  | -          |  |
+| 3      | create()              |  | Function to create a new account.              |  | CREATE     |  |
+| 4      | del()                 |  | Function to delete current account.            |  | CREATE     |  |
+| 5      | online()              |  | Function to display names of accounts created. |  | CREATE     |  |
+| 6      | callmouse()           |  | Funtion for displaying cursor to the screen.   |  | -          |  |
+| 7      | logo_ins()            |  | Function to display logo of the software.      |  | -          |  |
+| 8      | C_notify()            |  | Function to count number of notifications.     |  | COMPOSE    |  |
+| 9      | ideatime()            |  | Function to display shared idea.               |  | IDEA       |  |
+| 10     | find_name()           |  | Function to return current users name.         |  | CREATE     |  |
+| 11     | clearslate_protocol() |  | Function to exit from the software.            |  | -          |  |
+
+
 **4. CONCLUTION**
 
 	“Basic Algorithmic file Encoded as a Simple program Intending to entertain you Xtendly” shortened as BAESIX is a basic form of what now we call a “SOCIAL MEDIA”. In this modern era everyone is very into social media. It has became a part of our life. Social media is defined as relationship that exist between network and people. Thus via this software, we provide the facilities for users to share and connect with one another. BAESIX thus becomes the best by our way to be S.M.A.R.T. (Specific, Measureable, Achievable, Realistic, and Timely).
