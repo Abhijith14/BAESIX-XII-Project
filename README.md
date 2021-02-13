@@ -70,14 +70,16 @@
 
 **3. DATA FLOW DIGRAM**
 
+![alt text](https://github.com/Abhijith14/BAESIX-XII-Project/blob/master/images/flowchart.jpg?raw=true)
+
+
+
 | Sl.No  | Function | Description |
 | ------------- | ------------- | ----------- |
 | 1.  | INTRO()  |   INTRODUCTION TO THIS PROJECT     |
 | 2.  | GRAPH()  |   GIVES GRAPHIC DESIGN TO THE PROJECT     |
 | 3.  | DIS()  |   DISPLAY THE ITEMS AND INFORMATIONS     |
 | 4.  | ENTER()  |   ACCEPTS THE ENTERED NUMBER AND PROCESS IT ACCORDING TO THE OPERATION ASKED     |
-
-![alt text](https://github.com/Abhijith14/BAESIX-XII-Project/blob/master/images/flowchart.jpg?raw=true)
 
 
 **4. CONCLUTION**
