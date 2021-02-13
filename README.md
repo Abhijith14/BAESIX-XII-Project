@@ -76,17 +76,13 @@
 
 | SL.No. | Classes Used | Function       |  | Description                                                   |  | Files Used   |
 |--------|--------------|----------------|--|---------------------------------------------------------------|--|--------------|
-|        |              |                |  |                                                               |  |              |
 | 1      | Intr_o       | intro()        |  | Functions to display Welcome screen.                          |  | -            |
 |        |              | graphicintro() |  |                                                               |  |              |
 |        |              | cpyrgt()       |  | Functions to display the terms and conditions.                |  |              |
 |        |              | license()      |  |                                                               |  |              |
 |        |              | acknow()       |  | Function to display acknowledgement.                          |  |              |
-|        |              |                |  |                                                               |  |              |
 | 2      | Outlin_e     | ask()          |  | Function to enter choice for Signup/Login.                    |  | -            |
-|        |              |                |  |                                                               |  |              |
 |        |              | show1()        |  | Function to display license of the  software.                 |  |              |
-|        |              |                |  |                                                               |  |              |
 | 3      | Use_r        | modify()       |  | Function to modify details of an account.                     |  | -            |
 |        |              | ret_city()     |  | Function to return the city.                                  |  | -            |
 |        |              | ret_state()    |  | Function to return the state.                                 |  | -            |
@@ -103,17 +99,14 @@
 |        |              | D_el()         |  | Function to display deleting message.                         |  | -            |
 |        |              | wai_t()        |  | Function to display loading message.                          |  | -            |
 |        |              | inbox()        |  | Function to display sending message.                          |  | -            |
-|        |              |                |  |                                                               |  |              |
 | 4      | Idea_share   | idea_share     |  | Constructor to initialise value of story to “NULL”.           |  | -            |
 |        |              | Enter()        |  | Function to enter the idea to be shared.                      |  | IDEA         |
 |        |              | Show()         |  | Function to return the current story.                         |  | -            |
 |        |              | ret_date()     |  | Function to return the date.                                  |  |              |
 |        |              | ret_type()     |  | Function to return the from.                                  |  |              |
-|        |              |                |  |                                                               |  |              |
 | 5      | Hoo_k        | work()         |  | Function to diplay home page.                                 |  | CREATE, COMPOSE,IDEA  |
 |        |              | logout()       |  | Function to logout from the current account.                  |  | -            |
 |        |              | oldloc()       |  | Function to modify location.                                  |  | CREATE       |
-|        |              |                |  |                                                               |  |              |
 | 6      | C_msg        | C_msg          |  | Constructor to initialize the values of nomb=0 and check=’N’. |  | -            |
 |        |              | message()      |  | Function to compose a message.                                |  | COMPOSE      |
 |        |              | clearnotify()  |  | Function to clear notifications.                              |  |              |
