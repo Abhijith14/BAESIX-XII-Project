@@ -7,8 +7,7 @@
 		1.1.1 BAESIX-An Overview
 
 			Basic Algorithmic file Encoded as a Simple program Intended to Entertain you eXtendly”-
-			shortened as BAESIX:- is a software that facilitate the creation and sharing of 
-			information,
+			shortened as BAESIX:- is a software that facilitate the creation and sharing of information,
 			ideas, career interests and other forms of expression using the basic programming language
 			C++. In simple words it’s a basic model of Social media management software (SMMS) -
 			an application program or software suite module that facilitates an organization's ability
