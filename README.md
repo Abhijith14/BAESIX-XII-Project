@@ -22,6 +22,7 @@
 			across different users and does not support networking.
 			
 			Social media intelligence enables brands to:
+			
 			•	Heighten brand awareness
 			•	Increase social community size
 			•	Accurately target audiences
@@ -29,14 +30,18 @@
 			•	Increase customer satisfaction and positive brand perception
 			•	Convert social followers into qualified leads and new business
 			
-			Modern SMMS’s generally have many more features as posting a video or an image or even playing multiplayer online games and more. The feature set differs between different applications or websites; however, this project deals with simple and basic features including text messaging and chatting and sharing ideas or suggestions. 
+			Modern SMMS’s generally have many more features as posting a video or an image or even 
+			playing multiplayer online games and more. The feature set differs between different 
+			applications or websites; however, this project deals with simple and basic features 
+			including text messaging and chatting and sharing ideas or suggestions. 
 
 		1.1.2 Objective of the PROJECT
 
 				The main objective of the project “BAESIX” is to help the user to share their ideas
 				or suggestions among their follower.
 				It helps the user to also to chat with their friends.
-				Thus we get the trust of each user by our way to be S.M.A.R.T. (Specific, Measureable, Achievable, Realistic, and Timely).
+				Thus we get the trust of each user by our way to be S.M.A.R.T. 
+				(Specific, Measureable, Achievable, Realistic, and Timely).
 
 
 **2. SYSTEM SPECIFICATION**
