@@ -87,33 +87,33 @@
 |        |              |                |  |                                                               |  |              |
 |        |              | show1()        |  | Function to display license of the  software.                 |  |              |
 |        |              |                |  |                                                               |  |              |
-| 3      | Use_r        | modify()       |  |                                                               |  | -            |
-|        |              |                |  | Function to modify details of an account.                     |  |              |
-|        |              | ret_city()     |  | Function to return the city.                                  |  |              |
-|        |              | ret_state()    |  | Function to return the state.                                 |  |              |
-|        |              | ret_country()  |  | Function to return the                                        |  |              |
-|        |              |                |  | country.                                                      |  |              |
-|        |              | ret_hometown() |  | Function to return the hometown.                              |  |              |
-|        |              | ret_user()     |  | Function to return the unique user ID.                        |  |              |
-|        |              | ret_pass()     |  | Function to return the unique pass code.                      |  |              |
-|        |              | ret_name()     |  | Function to return the name.                                  |  |              |
-|        |              | ret_rel()      |  | Function to return the relationship status.                   |  |              |
-|        |              | ret_phone()    |  | Function to return the phone number.                          |  |              |
-|        |              | newdat()       |  | Function to enter the details of an account.                  |  |              |
-|        |              | d_lay()        |  | Function to display delay message.                            |  |              |
-|        |              | e_ror()        |  | Function to display error message.                            |  |              |
-|        |              | D_el()         |  | Function to display deleting message.                         |  |              |
-|        |              | wai_t()        |  | Function to display loading message.                          |  |              |
-|        |              | inbox()        |  | Function to display sending message.                          |  |              |
+| 3      | Use_r        | modify()       |  | Function to modify details of an account.                     |  | -            |
+|        |              | ret_city()     |  | Function to return the city.                                  |  | -            |
+|        |              | ret_state()    |  | Function to return the state.                                 |  | -            |
+|        |              | ret_country()  |  | Function to return the country.                               |  | -            |
+|        |              | ret_hometown() |  | Function to return the hometown.                              |  | -            |
+|        |              | ret_user()     |  | Function to return the unique user ID.                        |  | -            |
+|        |              | ret_pass()     |  | Function to return the unique pass code.                      |  | -            |
+|        |              | ret_name()     |  | Function to return the name.                                  |  | -            |
+|        |              | ret_rel()      |  | Function to return the relationship status.                   |  | -            |
+|        |              | ret_phone()    |  | Function to return the phone number.                          |  | -            |
+|        |              | newdat()       |  | Function to enter the details of an account.                  |  | -            |
+|        |              | d_lay()        |  | Function to display delay message.                            |  | -            |
+|        |              | e_ror()        |  | Function to display error message.                            |  | -            |
+|        |              | D_el()         |  | Function to display deleting message.                         |  | -            |
+|        |              | wai_t()        |  | Function to display loading message.                          |  | -            |
+|        |              | inbox()        |  | Function to display sending message.                          |  | -            |
+|        |              |                |  |                                                               |  |              |
 | 4      | Idea_share   | idea_share     |  | Constructor to initialise value of story to “NULL”.           |  | -            |
 |        |              | Enter()        |  | Function to enter the idea to be shared.                      |  | IDEA         |
 |        |              | Show()         |  | Function to return the current story.                         |  | -            |
 |        |              | ret_date()     |  | Function to return the date.                                  |  |              |
 |        |              | ret_type()     |  | Function to return the from.                                  |  |              |
-| 5      | Hoo_k        | work()         |  | Function to diplay home page.                                 |  | CREATE,      |
-|        |              |                |  |                                                               |  | COMPOSE,IDEA |
+|        |              |                |  |                                                               |  |              |
+| 5      | Hoo_k        | work()         |  | Function to diplay home page.                                 |  | CREATE, COMPOSE,IDEA  |
 |        |              | logout()       |  | Function to logout from the current account.                  |  | -            |
 |        |              | oldloc()       |  | Function to modify location.                                  |  | CREATE       |
+|        |              |                |  |                                                               |  |              |
 | 6      | C_msg        | C_msg          |  | Constructor to initialize the values of nomb=0 and check=’N’. |  | -            |
 |        |              | message()      |  | Function to compose a message.                                |  | COMPOSE      |
 |        |              | clearnotify()  |  | Function to clear notifications.                              |  |              |
