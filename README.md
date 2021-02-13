@@ -13,7 +13,13 @@
 			an application program or software suite module that facilitates an organization's ability 
 			to successfully engage in social media across different communication channels.
 
-			When engaging with these services, users can create highly interactive platforms through which individuals, communities, and organizations can share, co-create, discuss, and modify user-generated content or pre-made content posted online. They "introduce substantial and pervasive changes to communication between organizations, communities, and individuals." BAESIX mainly focus on the emerging fields of technoself studies, But still in a basic form. BAESIX differ from other social media software as it posts only ideas and suggestions across different users and does not support networking.
+			When engaging with these services, users can create highly interactive platforms through 
+			which individuals, communities, and organizations can share, co-create, discuss, and modify
+			user-generated content or pre-made content posted online. They "introduce substantial and
+			pervasive changes to communication between organizations, communities, and individuals."
+			BAESIX mainly focus on the emerging fields of technoself studies, But still in a basic
+			form. BAESIX differ from other social media software as it posts only ideas and suggestions
+			across different users and does not support networking.
 			
 			Social media intelligence enables brands to:
 			•	Heighten brand awareness
