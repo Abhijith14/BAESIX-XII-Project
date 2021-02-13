@@ -38,8 +38,7 @@
 
 		1.1.2 Objective of the PROJECT
 
-				The main objective of the project “BAESIX” is to help the user to share their 
-				ideas
+				The main objective of the project “BAESIX” is to help the user to share their ideas
 				or suggestions among their follower.
 				It helps the user to also to chat with their friends.
 				Thus we get the trust of each user by our way to be S.M.A.R.T.
