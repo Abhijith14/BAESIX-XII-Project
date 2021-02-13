@@ -6,14 +6,14 @@
 
 		1.1.1 BAESIX-An Overview
 
-			Basic Algorithmic file Encoded as a Simple program Intended to Entertain you eXtendly”- 
+			Basic Algorithmic file Encoded as a Simple program Intended to Entertain you eXtendly”-
 			shortened as BAESIX:- is a software that facilitate the creation and sharing of information,
-			ideas, career interests and other forms of expression using the basic programming language 
-			C++. In simple words it’s a basic model of Social media management software (SMMS) - 
-			an application program or software suite module that facilitates an organization's ability 
+			ideas, career interests and other forms of expression using the basic programming language
+			C++. In simple words it’s a basic model of Social media management software (SMMS) -
+			an application program or software suite module that facilitates an organization's ability
 			to successfully engage in social media across different communication channels.
 
-			When engaging with these services, users can create highly interactive platforms through 
+			When engaging with these services, users can create highly interactive platforms through
 			which individuals, communities, and organizations can share, co-create, discuss, and modify
 			user-generated content or pre-made content posted online. They "introduce substantial and
 			pervasive changes to communication between organizations, communities, and individuals."
@@ -30,17 +30,17 @@
 			•	Increase customer satisfaction and positive brand perception
 			•	Convert social followers into qualified leads and new business
 			
-			Modern SMMS’s generally have many more features as posting a video or an image or even 
-			playing multiplayer online games and more. The feature set differs between different 
-			applications or websites; however, this project deals with simple and basic features 
-			including text messaging and chatting and sharing ideas or suggestions. 
+			Modern SMMS’s generally have many more features as posting a video or an image or even
+			playing multiplayer online games and more. The feature set differs between different
+			applications or websites; however, this project deals with simple and basic features
+			including text messaging and chatting and sharing ideas or suggestions.
 
 		1.1.2 Objective of the PROJECT
 
 				The main objective of the project “BAESIX” is to help the user to share their ideas
 				or suggestions among their follower.
 				It helps the user to also to chat with their friends.
-				Thus we get the trust of each user by our way to be S.M.A.R.T. 
+				Thus we get the trust of each user by our way to be S.M.A.R.T.
 				(Specific, Measureable, Achievable, Realistic, and Timely).
 
 
