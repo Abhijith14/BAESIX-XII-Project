@@ -145,7 +145,8 @@
 	and organizations can share, co-create, discuss, and modify user-generated content or pre-made content
 	posted. They "introduce substantial and pervasive changes to communication between organizations,
 	communities, and individuals." BAESIX mainly focus on the emerging fields of technoself studies, But
-	still in a basic form. BAESIX differ from other social media software as it posts only ideas and suggestions
+	still in a basic form. BAESIX differ from other social media software as it posts only ideas and 
+	suggestions
 	across different users and does not support networking.
 
 	However this project is not safe. Many softwares has now the facility to create fake Id’s which will not be 
